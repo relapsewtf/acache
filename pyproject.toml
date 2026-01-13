@@ -1,0 +1,14 @@
+[project]
+name = "acache"
+version = "0.1.0"
+description = "Utilities to parse ActivitiesCache for DFIR"
+authors = ["relapsewtf "]
+requires-python = ">=3.8"
+
+[tool.poetry.dependencies]
+python = ">=3.8"
+matplotlib = "^3.0"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-q"
