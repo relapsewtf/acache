@@ -2,7 +2,7 @@
 name = "acache"
 version = "0.1.0"
 description = "Utilities to parse ActivitiesCache for DFIR"
-authors = ["relapsewtf "]
+authors = ["relapsewtf & help of copilot :') "]
 requires-python = ">=3.8"
 
 [tool.poetry.dependencies]
